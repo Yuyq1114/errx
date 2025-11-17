@@ -18,7 +18,7 @@ API 极简，保持与 Go 原生错误处理风格一致
 
 ## 1. 安装
 
-go get github.com/yuyq1114/errx
+go get github.com/Yuyq1114/errx
 
 ## 2. 使用方法
 
